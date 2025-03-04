@@ -1,12 +1,12 @@
-# ChatGPT 中文版：国内直连镜像网站汇总合集（支持 GPT-4、GPT-4o、o1、o3、DeepSeek R1，Grok-3 无需翻墙）【2025/03/04 更新】
-> **更新日期：2025/03/04**
+# ChatGPT 中文版：国内直连镜像网站汇总合集（支持 GPT-4、GPT-4o、o1、o3、DeepSeek R1，Grok-3 无需翻墙）
+> **更新日期：2025/03/05**
 
 本项目旨在为用户提供一站式的 **ChatGPT 中文版使用指南**，同时整理了国内可用的 **ChatGPT 镜像网站** 和 **官网使用教程**，帮助您快速上手 ChatGPT，无论是个人使用还是专业需求。
 
 - **ChatGPT 中文版入口**： [https://chat.yixiaai.com/](https://chat.yixiaai.com/)
 - **ChatGPT 镜像网站入口**： [https://lanjing.ai](https://lanjing.ai)
 
-
+  
 
 ---
 
