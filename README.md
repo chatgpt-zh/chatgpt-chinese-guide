@@ -1,5 +1,5 @@
 # ChatGPT 中文版：国内直连镜像网站汇总合集（支持 GPT-4、GPT-4o、o1、o3、DeepSeek R1，Grok-3 无需翻墙）
-> **更新日期：2025/04/04**
+> **更新日期：2025/04/10**
 
 本项目旨在为用户提供一站式的 **ChatGPT 中文版使用指南**，同时整理了国内可用的 **ChatGPT 镜像网站** 和 **官网使用教程**，帮助您快速上手 ChatGPT，无论是个人使用还是专业需求。
 
@@ -26,7 +26,7 @@
 
 | 镜像站地址                          | 支持版本                     | 免费额度    | 注册方式    | 稳定性    | 功能亮点                          |
 |-------------------------------------|------------------------------|-------------|-------------|-----------|-----------------------------------|
-| [chat.yixiaai.com](https://chat.yixiaai.com) | GPT-4, GPT-4o, Grok 3,Claude 3.7 Sonnet、DeepSeek R1满血版、 GPT-o3 mini | 有          | 无需注册    | ⭐⭐⭐⭐⭐ | 支持多功能扩展，内置 MJ 绘图、AI PPT |
+| [chat.yixiaai.com](https://chat.yixiaai.com) | GPT-4, GPT-4o, Grok 3,Claude 3.7 Sonnet、Gemini、DeepSeek R1满血版、 GPT-o3 mini | 有          | 无需注册    | ⭐⭐⭐⭐⭐ | 支持多功能扩展，内置 MJ 绘图、AI PPT |
 | [chat.chatgpt-chinese.com](https://chat.chatgpt-chinese.com/)   | GPT-4, GPT-4o, Claude 3.7 Sonnet, GPT-o1, GPT-o3 | 开通会员    | 无需注册    | ⭐⭐⭐⭐⭐ | 支持GPT镜像，多种模型稳定不降智商 |
 | [chatgpt-chinese.com](https://chatgpt-chinese.com/) | GPT-4, GPT-4o, GPT o3, Grok | 有          | 无需注册    | ⭐⭐⭐⭐  | 支持开发者 API，稳定服务          |
 | [cgn.lify.vip](https://cgn.lify.vip/) | GPT-4O、GPT-4.0            | 有          | 微信注册    | ⭐⭐⭐   | 基础功能齐全，适合新手            |
@@ -77,7 +77,7 @@
    中文版是专为国内用户优化的服务，通过镜像站提供更快、更稳定的访问，而官网需要翻墙访问。
 
 2. **中文版是否支持 GPT-4？**  
-   是的，大部分镜像站都支持 GPT-4 和 GPT-4O。
+   是的，大部分镜像站都支持 GPT-4、GPT-o1、GPT-o3。
 
 3. **ChatGPT 中文版免费吗？**  
    部分镜像站提供免费试用额度，但高级功能可能需要付费。
