@@ -1,4 +1,4 @@
-# **GPT-4o中文体验与绘图推荐指南**（2025-04-23更新）
+# **GPT-4o中文体验与绘图推荐指南**（2025-05-27更新）
 
 嗨，欢迎来到GPT4o中文体验与绘图指南！人工智能风正劲，gpt-4o和吉卜力风格绘图火热全网，你是不是也跃跃欲试？不如跟着本指南，30分钟快速掌握全新AI聊天和绘画神器，分分钟升级你的办公、学习与娱乐体验！
 
@@ -21,11 +21,9 @@
 
 | 平台/客户端/插件 | 支持模型与功能 | 入口链接 |
 |:-----------------|:-------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------|
-| 易夏AI Chat      | GPT4o、GPT o1、DeepSeek满血版、Claude 3.7 Sonnet、Grok 3、AI绘画、联网查询          | https://chat.yixiaai.com                                                                |
+| 易夏AI Chat      | GPT4o、GPT o1、DeepSeek满血版、Claude 3.7 Sonnet、Grok 3、AI绘画、联网查询          | https://xsimplechat.com                                                                |
 | ChatGPT中文网     | GPT4o、GPT-o3、GPT o1、DeepSeek满血版                      | https://chat.chatgpt-chinese.com/                                                      |
 | 蓝鲸AI           | GPT全系列模型和DeepSeek R1满血版                          | https://chat.lanjing.pro                                                               |
-| AI智慧岛电脑端   | 独立客户端，免费，功能齐全                                 | [下载](https://chatknow.lify.vip/software/AI%E6%99%BA%E6%85%A7%E5%B2%9B_1.0.1_x64_zh-CN.zip)      |
-| Edge ChatGPT插件 | GPT4o及中文、对话、写作、绘画                              | [插件商店](https://microsoftedge.microsoft.com/addons/detail/chatgpt%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%88%E4%B8%AD%E6%96%87%E7%95%8C%E9%9D%A2%E3%80%81%E5%AF%B9%E8%AF%9D%E3%80%81%E5%86%99%E4%BD%9C%E3%80%81%E7%BB%98%E7%94%BB/lmlenkgcieicbnpobkhmpcgmamahahil) |
 | 蓝鲸AI指南      | 全系列GPT模型详细解读及入口                                | https://guide1.lanjing.ai                                                              |
 
 ## **4. 快速上手：如何用GPT4o绘图？（实用小技巧）**
